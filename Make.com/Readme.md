@@ -65,18 +65,15 @@ This Make.com (Integromat) scenario automates the end-to-end process of **lead g
 
 ## 🛠 Setup Instructions
 
-1. **Connect all services**:
+1. **Open [Make.com](https://www.make.com/)** and **import the provided scenario files** to your dashboard.
+2. **Connect all services**:
    - Google Sheets
    - OpenAI (ChatGPT) API key
    - Email provider (SMTP, Gmail, Outlook)
-
-2. **Configure Webhook/API** to receive lead data.
-
-3. **Customize GPT prompt** to match your messaging tone.
-
-4. **Edit filters and routers** to match your lead segmentation strategy.
-
-5. **Activate scenario** and monitor the run history for debugging.
+3. **Configure Webhook/API** to receive lead data.
+4. **Customize GPT prompt** to match your messaging tone.
+5. **Edit filters and routers** to match your lead segmentation strategy.
+6. **Activate scenario** and monitor the run history for debugging.
 
 ---
 
